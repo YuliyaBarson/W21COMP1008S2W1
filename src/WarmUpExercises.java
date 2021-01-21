@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class WarmUpExercises {
 
     public static void main(String[] args) {

@@ -12,7 +12,10 @@ public class WarmUpExercises {
 
         //Challenge 2 & 3
         for (int i = 0; i <= 100; i += 10) {
-            System.out.println(i%20==0?i + " Java":i);
+            //i%20==0? if statement
+            //i + " Java" action
+            //:i else statement
+            System.out.println(i%20==0? i + " Java" : i);
         }
 
     }
